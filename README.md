@@ -18,7 +18,6 @@ Cost, Security, and Scalability are the major requirements for this project. Hen
 ![alt text](./images/a.PNG)
 ![alt text](./images/a2.PNG)
 
-![alt text](image.jpg)
 
 
 ## Starting Off Your AWS Cloud Project
@@ -238,9 +237,6 @@ Prepare Launch Template For Webservers (One per subnet)
 
 ![alt text](./images/ami.PNG)
 
-![alt text](image.jpg)
-
-
 
 
 
@@ -379,7 +375,7 @@ Create an alias record for tooling.<yourdomain>.com and direct its traffic to th
 ![alt text](./images/wordpress3.PNG)
 
 
-
+# Congratulations!
 
 
 
