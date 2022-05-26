@@ -375,6 +375,11 @@ Create an alias record for tooling.<yourdomain>.com and direct its traffic to th
 ![alt text](./images/wordpress3.PNG)
 
 
+![alt text](./images/lastpix.PNG)
+
+![alt text](./images/lastpix2.PNG)
+
+
 # Congratulations!
 
 
